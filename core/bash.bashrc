@@ -9,7 +9,7 @@ PS1="[\w] >> "
 clear
 echo "Created By MWTU-TECH"
 echo "----------------------------" | lolcat
-echo "Instagram :@ tahmid.rayat"
+echo "Instagram :@ mwtuofficial"
 echo "Github: github.com/mwtutech/"
 echo "----------------------------" | lolcat
 echo "
